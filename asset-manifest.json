@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a8774f3.css",
-    "main.js": "/static/js/main.99644b4d.js",
+    "main.css": "/static/css/main.e1b4ca1a.css",
+    "main.js": "/static/js/main.205c370f.js",
     "static/media/FESTIVAL.png": "/static/media/FESTIVAL.7f3c67ef062d2c41b5c8.png",
     "static/media/stations.png": "/static/media/stations.3fc3e62507bd3b1290d3.png",
     "static/media/glisse.png": "/static/media/glisse.5abf88bb4ba43cfd2e18.png",
@@ -12,18 +12,19 @@
     "static/media/toulontoutcourt.jpg": "/static/media/toulontoutcourt.2aa155e6e76692d514aa.jpg",
     "static/media/infosystem.jpg": "/static/media/infosystem.82dc3ca323c4d36dcb5c.jpg",
     "static/media/dashcomputer.jpg": "/static/media/dashcomputer.c8e5fbe9d387f507cb5c.jpg",
-    "static/media/network.jpg": "/static/media/network.488f58b0a04e1fbcda1c.jpg",
+    "static/media/network.jpg": "/static/media/network.0b1a7ee373408950820e.jpg",
     "static/media/wifi.jpg": "/static/media/wifi.5bdff5878fcd83792e74.jpg",
     "static/media/azr-2.png": "/static/media/azr-2.5a8171047ca88f508a3f.png",
     "static/media/azure.jpg": "/static/media/azure.d82c7de84a50e2e0aba9.jpg",
+    "static/media/mobile-azr.png": "/static/media/mobile-azr.69501e058bc9fba9fba9.png",
     "static/media/logo-bgwhite.png": "/static/media/logo-bgwhite.422a935c5740e8cdc997.png",
     "static/media/ball.png": "/static/media/ball.e5b155122e3ff58d4914.png",
     "index.html": "/index.html",
-    "main.3a8774f3.css.map": "/static/css/main.3a8774f3.css.map",
-    "main.99644b4d.js.map": "/static/js/main.99644b4d.js.map"
+    "main.e1b4ca1a.css.map": "/static/css/main.e1b4ca1a.css.map",
+    "main.205c370f.js.map": "/static/js/main.205c370f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a8774f3.css",
-    "static/js/main.99644b4d.js"
+    "static/css/main.e1b4ca1a.css",
+    "static/js/main.205c370f.js"
   ]
 }
