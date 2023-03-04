@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f168e90.css",
+    "main.css": "/static/css/main.7adb800d.css",
     "main.js": "/static/js/main.65315d53.js",
     "static/media/FESTIVAL.png": "/static/media/FESTIVAL.7f3c67ef062d2c41b5c8.png",
     "static/media/stations.png": "/static/media/stations.3fc3e62507bd3b1290d3.png",
@@ -15,16 +15,20 @@
     "static/media/network.jpg": "/static/media/network.0b1a7ee373408950820e.jpg",
     "static/media/wifi.jpg": "/static/media/wifi.5bdff5878fcd83792e74.jpg",
     "static/media/azr-2.png": "/static/media/azr-2.5a8171047ca88f508a3f.png",
+    "static/media/Edensor-Free.otf": "/static/media/Edensor-Free.682e175d703f917f44fa.otf",
     "static/media/azure.jpg": "/static/media/azure.d82c7de84a50e2e0aba9.jpg",
     "static/media/mobile-azr.png": "/static/media/mobile-azr.69501e058bc9fba9fba9.png",
+    "static/media/VisueltPro-Bold.ttf": "/static/media/VisueltPro-Bold.8b803e847ae758eb1082.ttf",
+    "static/media/VisueltPro-Regular.ttf": "/static/media/VisueltPro-Regular.129147361723c45f64f9.ttf",
     "static/media/logo-bgwhite.png": "/static/media/logo-bgwhite.422a935c5740e8cdc997.png",
     "static/media/ball.png": "/static/media/ball.e5b155122e3ff58d4914.png",
+    "static/media/aubrey.TTF": "/static/media/aubrey.703259126447907c2f5c.TTF",
     "index.html": "/index.html",
-    "main.9f168e90.css.map": "/static/css/main.9f168e90.css.map",
+    "main.7adb800d.css.map": "/static/css/main.7adb800d.css.map",
     "main.65315d53.js.map": "/static/js/main.65315d53.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f168e90.css",
+    "static/css/main.7adb800d.css",
     "static/js/main.65315d53.js"
   ]
 }
